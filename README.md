@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @SpeccSK
-- 👀 I’m interested in ... Making games, writing scripts'n'stuff
-- 🌱 I’m currently learning ... CTF 2.5 and Twine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord "l.mps"
-- 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I am special
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&random=false&width=435&lines=Welcome+to+my+github+page!;Here+you+can+check+out+my+tutorials+;and+some+other+projects!)](https://git.io/typing-svg)
 <!---
 SpeccSK/SpeccSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
